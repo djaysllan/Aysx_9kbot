@@ -1,0 +1,19 @@
+# Using a custom Pyrogram version
+https://github.com/AmanoTeam/pyrogram/archive/master.zip#egg=pyrogram
+httpx[http2]
+async-lru
+meval
+TgCrypto
+schedule
+pytz
+requests
+arrow
+faker
+apscheduler
+aiocron
+beautifulsoup4
+aiogram
+requests
+html2text
+python-telegram-bot
+temp-mail
