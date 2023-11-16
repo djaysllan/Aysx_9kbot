@@ -12,7 +12,7 @@ BACKUP_DIR = f"{os.path.expanduser('~')}/backups"
 if not os.path.exists(BACKUP_DIR):
     os.makedirs(BACKUP_DIR)
 
-CHAT_ID = 5508410205
+CHAT_ID = 1397598439
 BACKUP_INTERVAL = 90
 BACKUP_ITEMS = [
     "plugins",
